@@ -2,7 +2,7 @@
 
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
-![image alt](https://github.com/Vaishnavi-Sood/sql-data-warehouse-project/blob/main/docs/DataWareHouseProject.png)
+![image alt](https://github.com/Vaishnavi-Sood/SQL-Data-Analytics-Project/blob/657a2c6b2c14b23cecd86ded0b0e6e209b26e1e7/document/DA%20PROJECT.png)
 
 ---
 
